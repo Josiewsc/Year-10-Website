@@ -6,3 +6,4 @@ button {color: whitesmoke;}
 button {width: 58mm;}
 button {height: 35mm;}
 button {font-size: 10mm;}
+p {font-style: inherit;}
