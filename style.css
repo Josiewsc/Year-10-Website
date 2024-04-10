@@ -1,8 +1,8 @@
-h1 {color: plum; }
-h2 {color: paleturquoise; }
+h1 {color: rgb(0, 0, 0); }
+h2 {color: rgb(0, 0, 0); }
 h2 {font-style: oblique; }
-button {background-color: black;}
-button {color: whitesmoke;}
+button {background-color: rgb(234, 143, 234);}
+button {color: plum;}
 button {width: 58mm;}
 button {height: 35mm;}
 button {font-size: 10mm;}
@@ -15,5 +15,5 @@ button {text-align: center;}
 img {
     width: 1000px;
     height: 1000px;
-    align-items: center;
+    align-items: center; justify-content: center;
 }
