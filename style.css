@@ -11,3 +11,9 @@ h1 {text-align: center;}
 h2 {text-align: center;}
 p {text-align: right;}
 button {text-align: center;}
+
+img {
+    width: 1000px;
+    height: 1000px;
+    align-items: center;
+}
