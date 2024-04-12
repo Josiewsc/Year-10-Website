@@ -1,4 +1,4 @@
-const answers = {
+window.answers = {
     colour: '',
     fruit: '',
     season: '',
@@ -10,7 +10,7 @@ const answers = {
     princess: '',
 }
 
-const superpowerTally = {
+window.superpowerTally = {
     shapeShifting: 0,
     mindReading: 0,
     superStrength: 0,
